@@ -14,7 +14,6 @@ I enjoy transforming raw data into intelligent systems that create measurable im
 - 🧠 Interested in Machine Learning, Data Science & AI
 - 📊 Passionate about Predictive Modeling and Data Analytics
 - 🌱 Currently learning Deep Learning, MLOps and System Design
-- ⚽ Building an end-to-end FIFA World Cup Prediction Engine
 - 🏆 National Level Hackathon Winner
 - 💡 Always curious about solving challenging real-world problems
 
@@ -72,7 +71,6 @@ Predicts the complete FIFA World Cup using
 - Monte Carlo Simulation
 - FastAPI
 - React
-- Historical International Match Data
 
 ---
 
@@ -106,16 +104,6 @@ Collection of
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
 
 </p>
 
