@@ -141,7 +141,7 @@ Mumbai University
 
 # 🤝 Connect With Me
 
-📧 Email: your.email@example.com
+📧 Email: dongardivedeepak17@gmail.com  
 
 🔗 LinkedIn:
 https://www.linkedin.com/in/siddharth-dongardive-906a79251/
