@@ -1,93 +1,65 @@
-<h1 align="center">Hi 👋, I'm Siddharth Dongardive</h1>
-<h3 align="center">Machine Learning Engineer | Data Science Student | Building AI Systems</h3>
+# 👋 Hello, I'm Siddharth!
 
-<p align="center">
-I'm passionate about solving real-world problems through Machine Learning, Data Science, and Predictive Analytics.
-I enjoy transforming raw data into intelligent systems that create measurable impact.
-</p>
+🚀 Machine Learning Engineer building intelligent AI systems
 
----
-
-## 🚀 About Me
-
-- 🎓 Final Year B.E. Computer Science (Data Science)
-- 🧠 Interested in Machine Learning, Data Science & AI
-- 📊 Passionate about Predictive Modeling and Data Analytics
-- 🌱 Currently learning Deep Learning, MLOps and System Design
-- 🏆 National Level Hackathon Winner
-- 💡 Always curious about solving challenging real-world problems
+📍 Mumbai, India  
+📧 Email: dongardivedeepak17@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/siddharth-dongardive-906a79251/  
+🌐 Portfolio: Coming Soon
 
 ---
 
-## 🛠 Tech Stack
+# 🌐 About Me
 
-### Languages
+I'm a final-year Computer Science (Data Science) student at Mumbai University with a passion for building end-to-end AI systems that solve real-world problems.
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql" />
-</p>
+My interests lie in Machine Learning, Predictive Analytics, Data Science, Feature Engineering, and MLOps. I enjoy taking projects from raw datasets to deployed applications, combining data analysis, model development, backend APIs, and intuitive user interfaces.
 
-### Machine Learning & Data Science
+I'm always looking to improve my engineering skills while building practical AI products that create real impact.
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
+---
 
-- Scikit-Learn
+# 💡 What I'm Working On
+
+- ⚽ Building a FIFA World Cup 2026 AI Prediction Platform using XGBoost, Monte Carlo Simulation, FastAPI and React.
+- 📊 Learning advanced Machine Learning, Deep Learning and MLOps.
+- 📚 Solving Data Science and Machine Learning problems to strengthen fundamentals.
+- 🚀 Preparing for Machine Learning Engineer and Data Scientist roles.
+
+---
+
+# 🌟 Projects
+
+### FIFA World Cup AI Predictor
+
+An end-to-end tournament prediction platform trained on nearly 20,000 international football matches.
+
+**Tech Stack**
+
+- Python
 - XGBoost
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- OpenCV
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### ⚽ FIFA World Cup AI Predictor
-
-Predicts the complete FIFA World Cup using
-
-- XGBoost
-- Monte Carlo Simulation
 - FastAPI
 - React
+- Monte Carlo Simulation
 
 ---
 
-### ⛏️ Mine Safety AI Platform
+### Mine Safety AI Platform
 
-AI-powered safety platform using
+An AI-powered platform focused on improving workplace safety using predictive analytics and intelligent monitoring.
 
+**Tech Stack**
+
+- Python
 - Machine Learning
-- Time Series Forecasting
-- Computer Vision
-- LLM Integration
+- FastAPI
+- MongoDB
 
 ---
 
-### 📊 Machine Learning Projects
+### Machine Learning Portfolio
 
-Collection of
+A growing collection of Machine Learning implementations including:
 
 - Regression
 - Classification
@@ -97,7 +69,65 @@ Collection of
 
 ---
 
-## 📈 GitHub Stats
+# 🎓 Education
+
+**Bachelor of Engineering (Computer Science - Data Science)**
+
+Vidyavardhini's College of Engineering & Technology  
+Mumbai University
+
+2023 – 2027
+
+---
+
+# 🏆 Achievements
+
+- 🥇 Winner – National Level Healthcare Hackathon (COHERENCE'26)
+- 🤖 Active Robotics Committee Member
+- 📈 Built and deployed multiple end-to-end AI applications
+- 🌍 Passionate about solving real-world problems with AI
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+- Python
+- SQL
+- C++
+- C
+
+### Machine Learning
+
+- Scikit-Learn
+- TensorFlow
+- XGBoost
+- Pandas
+- NumPy
+- OpenCV
+
+### Backend
+
+- FastAPI
+- REST APIs
+
+### Database
+
+- MongoDB
+- PostgreSQL
+
+### Tools
+
+- Git
+- GitHub
+- Docker
+- Linux
+- VS Code
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -109,28 +139,15 @@ Collection of
 
 ---
 
-## 📫 Connect With Me
+# 🤝 Connect With Me
 
-<p>
+📧 Email: your.email@example.com
 
-<a href="https://www.linkedin.com/in/siddharth-dongardive-906a79251/">
-LinkedIn
-</a>
+🔗 LinkedIn:
+https://www.linkedin.com/in/siddharth-dongardive-906a79251/
 
-|
-
-<a href="https://github.com/siddhu-exe">
-GitHub
-</a>
-
-</p>
-
+💻 GitHub:
+https://github.com/siddhu-exe
 ---
 
-<p align="center">
-
-<i>
-Building intelligent systems through data.
-</i>
-
-</p>
+> *"Building intelligent systems through data."*
