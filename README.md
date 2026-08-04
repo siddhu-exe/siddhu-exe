@@ -5,7 +5,7 @@
 📍 Mumbai, India  
 📧 Email: dongardivedeepak17@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/siddharth-dongardive-906a79251/  
-🌐 Portfolio: siddhuexe.vercel.app/
+🌐 Portfolio: [siddhuexe.vercel.app](https://siddhuexe.vercel.app/)
 
 ---
 
