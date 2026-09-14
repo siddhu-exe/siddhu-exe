@@ -1,147 +1,133 @@
-# 👋 Hello, I'm Siddharth!
-
-🚀 Machine Learning Engineer building intelligent AI systems
-
-📍 Mumbai, India  
-📧 Email: dongardivedeepak17@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/siddharth-dongardive-906a79251/  
-🌐 Portfolio: [siddhuexe.vercel.app](https://siddhuexe.vercel.app/)
-
----
-
-# 🌐 About Me
-
-I'm a final-year Computer Science (Data Science) student at Mumbai University with a passion for building end-to-end AI systems that solve real-world problems.
-
-My interests lie in Machine Learning, Predictive Analytics, Data Science, Feature Engineering, and MLOps. I enjoy taking projects from raw datasets to deployed applications, combining data analysis, model development, backend APIs, and intuitive user interfaces.
-
-I'm always looking to improve my engineering skills while building practical AI products that create real impact.
-
----
-
-# 💡 What I'm Working On
-
-- ⚽ Building a FIFA World Cup 2026 AI Prediction Platform using XGBoost, Monte Carlo Simulation, FastAPI and React.
-- 📊 Learning advanced Machine Learning, Deep Learning and MLOps.
-- 📚 Solving Data Science and Machine Learning problems to strengthen fundamentals.
-- 🚀 Preparing for Machine Learning Engineer and Data Scientist roles.
-
----
-
-# 🌟 Projects
-
-### FIFA World Cup AI Predictor
-
-An end-to-end tournament prediction platform trained on nearly 20,000 international football matches.
-
-**Tech Stack**
-
-- Python
-- XGBoost
-- FastAPI
-- React
-- Monte Carlo Simulation
-
----
-
-### Mine Safety AI Platform
-
-An AI-powered platform focused on improving workplace safety using predictive analytics and intelligent monitoring.
-
-**Tech Stack**
-
-- Python
-- Machine Learning
-- FastAPI
-- MongoDB
-
----
-
-### Machine Learning Portfolio
-
-A growing collection of Machine Learning implementations including:
-
-- Regression
-- Classification
-- Feature Engineering
-- Data Visualization
-- Model Evaluation
-
----
-
-# 🎓 Education
-
-**Bachelor of Engineering (Computer Science - Data Science)**
-
-Vidyavardhini's College of Engineering & Technology  
-Mumbai University
-
-2023 – 2027
-
----
-
-# 🏆 Achievements
-
-- 🥇 Winner – National Level Healthcare Hackathon (COHERENCE'26)
-- 🤖 Active Robotics Committee Member
-- 📈 Built and deployed multiple end-to-end AI applications
-- 🌍 Passionate about solving real-world problems with AI
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-- Python
-- SQL
-- C++
-- C
-
-### Machine Learning
-
-- Scikit-Learn
-- TensorFlow
-- XGBoost
-- Pandas
-- NumPy
-- OpenCV
-
-### Backend
-
-- FastAPI
-- REST APIs
-
-### Database
-
-- MongoDB
-- PostgreSQL
-
-### Tools
-
-- Git
-- GitHub
-- Docker
-- Linux
-- VS Code
-
----
-
-# 📊 GitHub Statistics
+# Hi, I'm Siddharth 👋
 
 <p align="center">
+  <a href="https://github.com/siddhu-exe">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/siddharth-dongardive-906a79251/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://siddhurogers.dev">
+    <img src="https://img.shields.io/badge/Portfolio-siddhurogers.dev-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=siddhu-exe&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhu-exe&layout=compact&theme=github_dark&hide_border=true"/>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Engineering+Student+%7C+AI+%26+Software+Builder;Machine+Learning+%7C+RAG+%7C+Backend+Systems;Building+projects%2C+learning+continuously%2C+shipping+ideas" />
 </p>
 
 ---
 
-# 🤝 Connect With Me
+## 👨‍💻 About Me
 
-📧 Email: dongardivedeepak17@gmail.com  
+🎓 Engineering student at **Mumbai University**
+
+💻 Interested in **Software Engineering, Artificial Intelligence, Machine Learning, and Backend Systems**
+
+🤖 I enjoy building practical AI systems, machine-learning applications, APIs, and full-stack products.
+
+🧠 Currently exploring **RAG, LLM applications, model evaluation, data pipelines, and scalable systems**.
+
+🚀 I like taking an idea from **data → model → backend → deployed product**.
+
+🌐 Portfolio: **[siddhurogers.dev](https://siddhurogers.dev)**
+
+☠️ One Piece fan — **Siddhu Rogers** is the little inspiration behind the domain.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,sql" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+**Machine Learning · XGBoost · NLP · RAG · LLM Applications · Data Processing · Model Evaluation**
+
+### Backend & Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,nextjs,html,css" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,docker,linux,git,github,vercel" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## ⚽ FIFA World Cup AI Predictor
+
+**End-to-end machine-learning platform for predicting FIFA World Cup outcomes.**
+
+Built a tournament prediction engine trained on **19,972 international matches from the 2006–2022 World Cup cycle**.
+
+### Highlights
+
+- Developed separate **XGBoost models** for group-stage and knockout-stage prediction
+- Implemented **Monte Carlo simulation** for tournament-level forecasting
+- Built a complete prediction pipeline from data preparation to inference
+- Created a **FastAPI backend**
+- Developed an interactive **React frontend**
+- Deployed the application for public use
+
+**Tech:** `Python` `XGBoost` `FastAPI` `React` `Monte Carlo Simulation` `Machine Learning`
+
+🔗 **Live:** [fifa-predictor-kohl.vercel.app](https://fifa-predictor-kohl.vercel.app/)
+
+---
+
+## ⚖️ LegalRAG — Retrieval-Augmented Legal AI
+
+A large-scale **Retrieval-Augmented Generation (RAG)** system for working with legal documents.
+
+### Highlights
+
+- Built a **100K-document retrieval pipeline**
+- Experimented with dense retrieval and RAG generation
+- Created and validated large-scale retrieval checkpoints
+- Worked on document processing, chunking, embeddings, retrieval, and generation
+- Focused on improving the reliability of answers over legal knowledge
+
+**Tech:** `Python` `RAG` `NLP` `Embeddings` `Dense Retrieval` `LLMs` `Vector Search`
+
+---
+
+## 🛡️ Rockefeller — Mine Safety Monitoring System
+
+An intelligent system focused on **monitoring and predicting safety risks in mining environments**.
+
+### Highlights
+
+- Built backend APIs using **FastAPI**
+- Designed data handling and storage using **MongoDB**
+- Developed frontend interfaces for monitoring
+- Integrated machine-learning components for risk analysis
+- Designed the application around real-world safety monitoring workflows
+
+**Tech:** `Python` `FastAPI` `MongoDB` `React` `Machine Learning`
+
+---
+
+# 🧪 What I'm Exploring
+
+```text
+Artificial Intelligence   →   RAG · LLM Applications · NLP
+Machine Learning           →   Prediction · Evaluation · Model Optimization
+Backend Engineering        →   APIs · Architecture · Data Systems
+Software Engineering      →   Clean Code · System Design · Deployment
 
 🔗 LinkedIn:
 https://www.linkedin.com/in/siddharth-dongardive-906a79251/
